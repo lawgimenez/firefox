@@ -24,7 +24,7 @@
     }
   },
   "devDependencies": {
-    "@microsoft/api-documenter": "7.26.3",
+    "@microsoft/api-documenter": "7.30.5",
     "@microsoft/api-extractor-model": "7.30.1",
     "@microsoft/tsdoc": "0.15.1",
     "@rushstack/node-core-library": "5.10.1"
